@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@200&display=swap');
+
+body{
+    background: #050e39;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+.b1 {
+
+    background-color: rgb(30, 255, 0);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 40px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+}
+.b1:hover {
+    background-color: #00af06
+}
+
+.b2 {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 15px 35px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+
+}
+.b2:hover {
+    background-color: #bb0000
+}
+
+.b3 {
+    background-color: rgb(0, 26, 255);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+}
+.b3:hover {
+    background-color: #0d00c2
+}
+.f1 {
+
+    background-color: #f39c12;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 40px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+}
+.f1:hover {
+    background-color: #d68910
+}
+
+.f2 {
+    background-color: #f1c40f;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 15px 35px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+
+}
+.f2:hover {
+    background-color: #d4ac0d
+}
+
+.f3 {
+    background-color: #99a3a4;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 4px 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.f3:hover {
+    background-color: #7f8c8d;
+}
+
+
+.r1{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  padding: 20px 40px;
+  font-size: 20px;
+  margin:20px 20px;
+}
+.r1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+.r2{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ff0000;
+    padding: 17px 36px;
+    font-size: 20px;
+    margin:20px 20px;
+}
+.r2:hover {
+    background-color: #c70000;
+    color: white;
+}
+
+.r3{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #001aff;
+    padding: 15px 33px;
+    font-size: 20px;
+    margin:20px 20px;
+}
+.r3:hover {
+    background-color: #0024c5;
+    color: white;
+}
+.t1{
+   background-color: white; 
+  color: black; 
+  border: 2px solid #f39c12;
+  padding: 20px 40px;
+  font-size: 20px;
+  margin:20px 20px;
+  border-radius: 40px;
+}
+.t1:hover {
+    background-color: #d68910;
+    color: white;
+}
+.t2{
+    background-color: white;  
+    color: black; 
+    border: 2px solid #f1c40f;;
+    padding: 17px 36px;
+    font-size: 20px;
+    margin:20px 20px;
+    border-radius: 30px;
+}
+
+.t2:hover {
+    background-color: #d4ac0d;
+    color: white;
+}
+
+
+.t3{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #99a3a4;
+    padding: 15px 33px;
+    font-size: 20px;
+    margin:20px 20px;
+    border-radius: 30px;
+}
+.t3:hover {
+    background-color: #7f8c8d;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background: #050e39;
+}
+
+.container{
+    width: 900px;
+    padding: 7% 50px;
+    margin: 0 auto;
+}
+
+a{
+    width: 180px;
+    display: inline-block;
+    margin: 5% 20px;
+    padding: 20px 0px;
+    text-align: center;
+    font-family: Ariel;
+    font-size: 16px;
+    color: #fff;
+    position:relative;
+    text-decoration:none;
+    letter-spacing: 1.5px ;
+}
+
+h3{
+    text-align: center,left;
+    font-family: Ariel;
+    font-size: 18px;
+    color: #fff;
+}
+ a:nth-child(1){
+    background-color: #4CAF50;
+}
+  */

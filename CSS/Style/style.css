@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+.container {
+    max-width: 960px;
+    margin: 30px auto;
+}
+.clr {
+    clear:both;
+}
+
+.box{
+    border: 1px solid #333333;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-family: "Sofia", sans-serif;
+}
+.box body{
+    text-align: left;
+    text-align: right ;
+    text-align: center ;
+    text-align: justify;
+}
+
+#box-1{
+    background:orangered;
+    text-align: center;
+}
+
+#box-2{
+    background:purple;
+    text-align: right;
+    float: right;
+    width: 33vw;
+    height: 30rem;
+
+}
+
+#box-3{
+    background:green;
+    float: left;
+    width: 36vw;
+    height: 30rem;
+}
+
+#box-4{
+    background:rgb(9, 145, 207);
+    text-align: center;
+}
